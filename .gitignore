@@ -18,7 +18,11 @@ build/
 *.iws
 *.iml
 *.ipr
+*.gradle
 out/
+.idea/
+.gradle/
+.gradle/wapper
 
 ### NetBeans ###
 /nbproject/private/
